@@ -1,4 +1,3 @@
 repository "SolarSystem 2026-05-05_12-05-11/SolarSystem@2475912376784@cloud"
   path "/"
-    br "/main"
-    co "/main"
+    smartbranch "/main"
