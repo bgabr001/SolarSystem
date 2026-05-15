@@ -26,7 +26,11 @@ RenderSettings:
   m_AmbientIntensity: 1
   m_AmbientMode: 0
   m_SubtractiveShadowColor: {r: 0.42, g: 0.478, b: 0.627, a: 1}
+<<<<<<< HEAD
   m_SkyboxMaterial: {fileID: 2100000, guid: a7680bf180e8f4bfcbae6c315ade7795, type: 2}
+=======
+  m_SkyboxMaterial: {fileID: 10304, guid: 0000000000000000f000000000000000, type: 0}
+>>>>>>> refs/remotes/origin/main
   m_HaloStrength: 0.5
   m_FlareStrength: 1
   m_FlareFadeSpeed: 3
@@ -37,7 +41,11 @@ RenderSettings:
   m_ReflectionBounces: 1
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
+<<<<<<< HEAD
   m_Sun: {fileID: 614583298}
+=======
+  m_Sun: {fileID: 0}
+>>>>>>> refs/remotes/origin/main
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -122,6 +130,7 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+<<<<<<< HEAD
 --- !u!1 &555951803
 GameObject:
   m_ObjectHideFlags: 0
@@ -183,6 +192,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   target: {fileID: 614583296}
   speed: 7
+=======
+>>>>>>> refs/remotes/origin/main
 --- !u!1 &614583292
 GameObject:
   m_ObjectHideFlags: 0
@@ -195,9 +206,12 @@ GameObject:
   - component: {fileID: 614583295}
   - component: {fileID: 614583294}
   - component: {fileID: 614583293}
+<<<<<<< HEAD
   - component: {fileID: 614583298}
   - component: {fileID: 614583297}
   - component: {fileID: 614583299}
+=======
+>>>>>>> refs/remotes/origin/main
   m_Layer: 0
   m_Name: Sun
   m_TagString: Untagged
@@ -246,7 +260,11 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
+<<<<<<< HEAD
   - {fileID: 2100000, guid: 81cefbfe956264665bc99589a55280e8, type: 2}
+=======
+  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+>>>>>>> refs/remotes/origin/main
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -291,6 +309,7 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 --- !u!114 &614583297
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -463,6 +482,8 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+=======
+>>>>>>> refs/remotes/origin/main
 --- !u!1 &817594691
 GameObject:
   m_ObjectHideFlags: 0
@@ -475,8 +496,11 @@ GameObject:
   - component: {fileID: 817594694}
   - component: {fileID: 817594693}
   - component: {fileID: 817594692}
+<<<<<<< HEAD
   - component: {fileID: 817594696}
   - component: {fileID: 817594697}
+=======
+>>>>>>> refs/remotes/origin/main
   m_Layer: 0
   m_Name: Moon
   m_TagString: Untagged
@@ -525,7 +549,11 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
+<<<<<<< HEAD
   - {fileID: 2100000, guid: f34166c4682284bdbaf1e09e7ad67abc, type: 2}
+=======
+  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+>>>>>>> refs/remotes/origin/main
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -563,6 +591,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 817594691}
   serializedVersion: 2
+<<<<<<< HEAD
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: -1, y: 0, z: 0}
   m_LocalScale: {x: 0.2, y: 0.2, z: 0.2}
@@ -598,6 +627,15 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   target: {fileID: 847156801}
   speed: 12
+=======
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 1.5, y: 0, z: 0}
+  m_LocalScale: {x: 0.1, y: 0.1, z: 0.1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+>>>>>>> refs/remotes/origin/main
 --- !u!1 &836171394
 GameObject:
   m_ObjectHideFlags: 0
@@ -609,7 +647,10 @@ GameObject:
   - component: {fileID: 836171397}
   - component: {fileID: 836171396}
   - component: {fileID: 836171395}
+<<<<<<< HEAD
   - component: {fileID: 836171398}
+=======
+>>>>>>> refs/remotes/origin/main
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -691,6 +732,7 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 --- !u!114 &836171398
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -788,6 +830,8 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+=======
+>>>>>>> refs/remotes/origin/main
 --- !u!1 &847156797
 GameObject:
   m_ObjectHideFlags: 0
@@ -800,9 +844,12 @@ GameObject:
   - component: {fileID: 847156800}
   - component: {fileID: 847156799}
   - component: {fileID: 847156798}
+<<<<<<< HEAD
   - component: {fileID: 847156802}
   - component: {fileID: 847156803}
   - component: {fileID: 847156804}
+=======
+>>>>>>> refs/remotes/origin/main
   m_Layer: 0
   m_Name: Earth
   m_TagString: Untagged
@@ -851,7 +898,11 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
+<<<<<<< HEAD
   - {fileID: 2100000, guid: b8c8ffce369b243549c24745ab5ee5ba, type: 2}
+=======
+  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+>>>>>>> refs/remotes/origin/main
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -893,6 +944,7 @@ Transform:
   m_LocalPosition: {x: 2, y: 0, z: 0}
   m_LocalScale: {x: 0.5, y: 0.5, z: 0.5}
   m_ConstrainProportionsScale: 0
+<<<<<<< HEAD
   m_Children:
   - {fileID: 817594695}
   m_Father: {fileID: 0}
@@ -1039,6 +1091,11 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+=======
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+>>>>>>> refs/remotes/origin/main
 --- !u!1 &1994388271
 GameObject:
   m_ObjectHideFlags: 0
@@ -1068,7 +1125,11 @@ Light:
   m_Type: 1
   m_Shape: 0
   m_Color: {r: 1, g: 0.95686275, b: 0.8392157, a: 1}
+<<<<<<< HEAD
   m_Intensity: 0.5
+=======
+  m_Intensity: 1
+>>>>>>> refs/remotes/origin/main
   m_Range: 10
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
@@ -1126,13 +1187,22 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1994388271}
   serializedVersion: 2
+<<<<<<< HEAD
   m_LocalRotation: {x: 0.41164386, y: 0.012747225, z: 0.53202367, w: 0.73982275}
   m_LocalPosition: {x: -3.615, y: 3.178, z: -0.117}
+=======
+  m_LocalRotation: {x: 0.40821788, y: -0.23456968, z: 0.10938163, w: 0.8754261}
+  m_LocalPosition: {x: 0, y: 3, z: 0}
+>>>>>>> refs/remotes/origin/main
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_LocalEulerAnglesHint: {x: 36.55, y: 394.661, z: -276.792}
+=======
+  m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
+>>>>>>> refs/remotes/origin/main
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
@@ -1141,5 +1211,9 @@ SceneRoots:
   - {fileID: 1994388273}
   - {fileID: 614583296}
   - {fileID: 847156801}
+<<<<<<< HEAD
   - {fileID: 844058782}
   - {fileID: 555951805}
+=======
+  - {fileID: 817594695}
+>>>>>>> refs/remotes/origin/main
